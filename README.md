@@ -1,7 +1,7 @@
 # c-lesson
 
 コンパイル
-gcc -o hello hello.c
+gcc -o tes test.c
 
 実行
-./hello
+./tes
